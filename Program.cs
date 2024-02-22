@@ -15,7 +15,7 @@
         }
         else
         {
-            return "Hello, World!";
+            return "Hello DevOps";
         }
     }
 }
